@@ -28,6 +28,7 @@ curl -G https://api.autom.dev/v1/google/search \
 
 - [**Bing Search API**](https://github.com/automdev/bing-search-api) — Bing search results as structured JSON
 - [**Brave Search API**](https://github.com/automdev/brave-search-api) — Brave web, image & video results as JSON
+- [**DuckDuckGo Search API**](https://github.com/automdev/duckduckgo-search-api) — DuckDuckGo search results as structured JSON
 - [**Google AI Mode API**](https://github.com/automdev/google-ai-mode-api) — Google AI Mode answers and sources as JSON
 - [**Google Autocomplete API**](https://github.com/automdev/google-autocomplete-api) — Google search suggestions as JSON
 - [**Google Images API**](https://github.com/automdev/google-images-api) — Google Images results as structured JSON
@@ -37,6 +38,8 @@ curl -G https://api.autom.dev/v1/google/search \
 - [**Google Search API**](https://github.com/automdev/google-search-api) — Google search results as structured JSON
 - [**Google Shopping API**](https://github.com/automdev/google-shopping-api) — Google Shopping products & prices as JSON
 - [**Google Videos API**](https://github.com/automdev/google-videos-api) — Google video results as structured JSON
+- [**Web Search API**](https://github.com/automdev/web-search-api) — One call, several search engines, first organic results
+- [**Yahoo Search API**](https://github.com/automdev/yahoo-search-api) — Yahoo search results as structured JSON
 
 ---
 
