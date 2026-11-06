@@ -24,6 +24,22 @@ curl -G https://api.autom.dev/v1/google/search \
   --data-urlencode "query=web scraping api"
 ```
 
+### Official SDKs
+
+Use Autom from your own language with a typed client:
+
+| SDK | Package | Install |
+| --- | --- | --- |
+| Node.js | [`@automdev/sdk`](https://www.npmjs.com/package/@automdev/sdk) | `npm install @automdev/sdk` |
+| Python | [`automdev`](https://pypi.org/project/automdev/) | `pip install automdev` |
+| Go | [`autom-go`](https://pkg.go.dev/github.com/automdev/autom-go) | `go get github.com/automdev/autom-go` |
+| .NET | [`Autom`](https://www.nuget.org/packages/Autom) | `dotnet add package Autom` |
+| Ruby | [`autom`](https://rubygems.org/gems/autom) | `gem install autom` |
+| PHP | [`autom/sdk`](https://packagist.org/packages/autom/sdk) | `composer require autom/sdk` |
+| Java | [`autom-java`](https://github.com/automdev/autom-java) | build from source, see its README |
+| CLI | [`@automdev/cli`](https://www.npmjs.com/package/@automdev/cli) | `npm install -g @automdev/cli` |
+| MCP server | [`@automdev/mcp`](https://www.npmjs.com/package/@automdev/mcp) | `npx -y @automdev/mcp` |
+
 ### Repositories
 
 - [**Bing Search API**](https://github.com/automdev/bing-search-api) — Bing search results as structured JSON
